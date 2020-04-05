@@ -1,5 +1,5 @@
 How to use - 
-Place the code in this folder (test) , and name it my.cpp
+Place the code in this folder (Code-test) , and name it my.cpp
 Execute the script.sh file and wait till the execution is over
 If there is a wrong test case it will appear in the output.txt file
 
